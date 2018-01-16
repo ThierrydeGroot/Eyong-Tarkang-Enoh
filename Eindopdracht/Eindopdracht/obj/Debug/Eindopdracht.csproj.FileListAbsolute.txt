@@ -1,0 +1,16 @@
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\bin\Debug\Eindopdracht.exe.config
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\bin\Debug\Eindopdracht.exe
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\bin\Debug\Eindopdracht.pdb
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.csprojResolveAssemblyReference.cache
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.Weerstation.resources
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.Properties.Resources.resources
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.csproj.GenerateResource.Cache
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.csproj.CoreCompileInputs.cache
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.exe
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.pdb
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.SplashScreen.resources
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\obj\Debug\Eindopdracht.AboutBox1.resources
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\bin\Debug\MySql.Data.dll
+C:\Users\Lennart\Documents\C# Huiswerk\Eindopdracht\Eindopdracht\Eindopdracht\bin\Debug\MySql.Data.xml
